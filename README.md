@@ -54,7 +54,8 @@ All rules live in `references/rules/`, organized by category:
 ### Metadata (`references/rules/metadata/`)
 
 | Rule | Guideline | What It Catches |
-|------|-----------|----------------|
+|------|-----------|-----------------|
+| [review_notes_new_submission](./references/rules/metadata/review_notes_new_submission.md) | 2.1 | Incomplete review notes for new app submissions (missing screen recording, app purpose, test credentials, external services, regional info, or regulatory docs) |
 | [competitor_terms](./references/rules/metadata/competitor_terms.md) | 2.3.1 | Android, Google Play, and other competitor brands |
 | [apple_trademark](./references/rules/metadata/apple_trademark.md) | 5.2.5 | Apple device images in icon, Apple trademark misuse |
 | [china_storefront](./references/rules/metadata/china_storefront.md) | 5 | OpenAI/ChatGPT/Gemini references (China) |

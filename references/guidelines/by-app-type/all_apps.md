@@ -9,6 +9,7 @@ Guidelines that apply to **every** app regardless of category. Check these befor
 - [ ] **2.1** — Demo account provided (or demo mode with prior Apple approval)
 - [ ] **2.1** — Backend services are live and accessible during review
 - [ ] **2.1(b)** — All configured IAP items are findable and functional (or explained in review notes)
+- [ ] **2.1** — Review notes include all 6 required new-submission sections (see `references/rules/metadata/review_notes_new_submission.md`)
 - [ ] **2.3** — Review notes describe all non-obvious features
 
 ## Metadata
